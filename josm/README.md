@@ -2,6 +2,8 @@
 
 This is a shell script to start JOSM in an isolated environment for OpenGeoFiction, so you can set whatever preferences and plugins independent from the JOSM environment you use for editing OSM.
 
+**You may be able to accomplish something very similar with JOSM profile files. I like it better this way, because it keeps everything completely isolated.**
+
 ## Instructions
 
 * Clone this repo
