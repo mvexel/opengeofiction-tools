@@ -19,7 +19,4 @@ Optionally you can load the OGF imagery preferences, since the defaults provided
 * Enable 'Expert mode' (checkbox in the left bottom corner)
 * Switch to the Advanced Preferences pane (last item in the list on the left hand side)
 * Click 'Read from file'
-* Select `imagery-prefs.xml` from this repo
-
-** This will overwrite existing imagery layer preferences but nothing else**
-    
+* Select `imagery-prefs.xml` from this repo **This will overwrite existing imagery layer preferences but nothing else**
