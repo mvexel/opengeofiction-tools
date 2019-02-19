@@ -13,4 +13,4 @@ java \
     -Djosm.cache=$JOSM_HOME/cache \
     -Djosm.pref=$JOSM_HOME/pref \
     -Xmx4G \
-    -jar $JOSM_JAR_PATH
+    -jar $JOSM_JAR_PATH &

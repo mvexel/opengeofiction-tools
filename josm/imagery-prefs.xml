@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config>
+<preferences operation="replace">
+<maps key="imagery.entries" xmlns="http://josm.openstreetmap.de/preferences-1.0">
+    <map>
+      <tag key="name" value="OGF Standard"/>
+      <tag key="type" value="tms"/>
+      <tag key="url" value="https://tile.opengeofiction.net/osmcarto/{z}/{x}/{y}.png"/>
+      <tag key="cookies" value=""/>
+      <tag key="customHttpHeaders" value="{}"/>
+      <tag key="transparent" value="true"/>
+      <tag key="minimumTileExpire" value="3600"/>
+    </map>
+    <map>
+      <tag key="name" value="OGF Topo"/>
+      <tag key="type" value="tms"/>
+      <tag key="url" value="https://tile.opengeofiction.net/topomap/{z}/{x}/{y}.png"/>
+      <tag key="cookies" value=""/>
+      <tag key="customHttpHeaders" value="{}"/>
+      <tag key="transparent" value="true"/>
+      <tag key="minimumTileExpire" value="3600"/>
+    </map>
+    <map>
+      <tag key="name" value="OGF Histor"/>
+      <tag key="type" value="tms"/>
+      <tag key="url" value="https://tile.opengeofiction.net/tiles-histor/{z}/{x}/{y}.png"/>
+      <tag key="cookies" value=""/>
+      <tag key="customHttpHeaders" value="{}"/>
+      <tag key="transparent" value="true"/>
+      <tag key="minimumTileExpire" value="3600"/>
+    </map>
+  </maps>
+</preferences>
+</config>
