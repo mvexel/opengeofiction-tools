@@ -11,6 +11,7 @@ This is a shell script to start JOSM in an isolated environment for OpenGeoFicti
 * Download JOSM jar `wget https://josm.openstreetmap.de/josm-tested.jar -O ~/bin/josm-tested.jar`
 * Start JOSM `./josm/start-ogf-josm.sh`
 * Set API endpoint to `https://opengeofiction.net/api`
+* [Create an OAuth application in OGF](https://opengeofiction.net/user/mvexel/oauth_clients/new). Note the keys, you need them in the next step
 * Authenticate with your OGF credentials
 
 Optionally you can load the OGF imagery preferences, since the defaults provided by JOSM are pretty useless in the OGF world :). To do this:
